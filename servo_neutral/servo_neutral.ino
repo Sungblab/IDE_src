@@ -3,7 +3,7 @@
 #include <Servo.h>
 
 #define PIN_SERVO 10
-#define _DUTY_NEU 1500
+#define _DUTY_NEU 1400
 
 Servo myservo;
 
